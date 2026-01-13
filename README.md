@@ -34,6 +34,7 @@ apitest-agent-sdk/
 
 ## 后续规划
 
+- [ ] 优化输出显示（精简模式，只显示关键节点）
 - [ ] 支持 URL 直接获取 Swagger 文档
 - [ ] 支持接口认证（Token、OAuth）
 - [ ] 生成测试报告（HTML/JSON）
